@@ -1,9 +1,9 @@
 class Dog
   def name= (dog_name)
-    @tag = dog_name
+    @name = dog_name
   end
 
   def name
-    @tag
+    @name
   end
 end
