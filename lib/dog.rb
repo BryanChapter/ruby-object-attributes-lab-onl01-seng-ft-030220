@@ -1,12 +1,13 @@
 class Dog
-  def name= (name)
-    @collar = name
+  def name= (dog_name)
+    @tag = dog_name  
+  end
+
+  def name
+    @tag
   end
 
   def name
     @collar
   end
-
-  def name
-    @collar
 end
