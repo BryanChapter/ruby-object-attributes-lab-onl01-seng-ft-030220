@@ -6,8 +6,4 @@ class Dog
   def name
     @tag
   end
-
-  def name
-    @tag
-  end
 end
