@@ -9,4 +9,5 @@ class Dog
 
   def name(new_dog_name)
     @tag = (new_dog_name)
+  end
 end
