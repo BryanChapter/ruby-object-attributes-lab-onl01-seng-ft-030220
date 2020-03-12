@@ -3,7 +3,7 @@ class Dog
     @collar = name
   end
 
-  def name
+  def name=(new_name)
     @collar
   end
 
