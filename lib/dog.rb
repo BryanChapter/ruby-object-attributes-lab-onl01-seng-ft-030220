@@ -8,6 +8,6 @@ class Dog
   end
 
   def name
-    @collar
+    @tag
   end
 end
