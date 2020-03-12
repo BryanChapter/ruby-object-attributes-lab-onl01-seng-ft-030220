@@ -6,3 +6,4 @@ class Dog
   def name
     @collar
   end
+end
